@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/251129-lab/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/251129-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/251129-lab/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/251129-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/251129-lab/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/251129-lab/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/251129-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
