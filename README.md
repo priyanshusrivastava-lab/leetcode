@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/251129-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0485-max-consecutive-ones](https://github.com/251129-lab/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/251129-lab/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/251129-lab/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/251129-lab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
