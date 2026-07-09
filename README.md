@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/251129-lab/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0485-max-consecutive-ones](https://github.com/251129-lab/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
+| [0704-binary-search](https://github.com/251129-lab/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/251129-lab/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/251129-lab/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
