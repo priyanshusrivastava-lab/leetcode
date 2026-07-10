@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/251129-lab/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 | [0704-binary-search](https://github.com/251129-lab/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/251129-lab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/251129-lab/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/251129-lab/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/251129-lab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
