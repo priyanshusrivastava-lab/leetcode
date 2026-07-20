@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/251129-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/251129-lab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0001-two-sum](https://github.com/251129-lab/leetcode/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/251129-lab/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/251129-lab/leetcode/tree/master/0283-move-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/251129-lab/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/251129-lab/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/251129-lab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/251129-lab/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
