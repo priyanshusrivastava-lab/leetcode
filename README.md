@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/251129-lab/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/251129-lab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0137-single-number-ii](https://github.com/251129-lab/leetcode/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/251129-lab/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/251129-lab/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0137-single-number-ii](https://github.com/251129-lab/leetcode/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
