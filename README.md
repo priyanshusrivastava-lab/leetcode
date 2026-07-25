@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/251129-lab/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0260-single-number-iii](https://github.com/251129-lab/leetcode/tree/master/0260-single-number-iii) |
 | [0088-merge-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0088-merge-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/251129-lab/leetcode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/251129-lab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/251129-lab/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0088-merge-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0088-merge-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/251129-lab/leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
