@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/251129-lab/leetcode/tree/master/0260-single-number-iii) |
 | [0088-merge-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/251129-lab/leetcode/tree/master/1089-duplicate-zeros) |
+| [0238-product-of-array-except-self](https://github.com/251129-lab/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/251129-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/251129-lab/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
