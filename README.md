@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/251129-lab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0215-kth-largest-element-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/251129-lab/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/251129-lab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
