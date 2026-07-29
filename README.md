@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/251129-lab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
