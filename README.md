@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/251129-lab/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0088-merge-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/251129-lab/leetcode/tree/master/1089-duplicate-zeros) |
+| [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/251129-lab/leetcode/tree/master/0001-two-sum) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/251129-lab/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/251129-lab/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
