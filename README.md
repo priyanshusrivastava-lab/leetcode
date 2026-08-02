@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/251129-lab/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/251129-lab/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/251129-lab/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/251129-lab/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
