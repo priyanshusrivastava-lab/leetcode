@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/251129-lab/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [0128-longest-consecutive-sequence](https://github.com/251129-lab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/251129-lab/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [0128-longest-consecutive-sequence](https://github.com/251129-lab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/251129-lab/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
