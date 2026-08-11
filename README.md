@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/251129-lab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/251129-lab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
