@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/251129-lab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/251129-lab/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/251129-lab/leetcode/tree/master/0260-single-number-iii) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
