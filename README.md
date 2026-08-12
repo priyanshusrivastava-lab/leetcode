@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/251129-lab/leetcode/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/251129-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/251129-lab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
