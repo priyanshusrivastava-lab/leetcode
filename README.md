@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/251129-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/251129-lab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
+| [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/251129-lab/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0137-single-number-ii](https://github.com/251129-lab/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/251129-lab/leetcode/tree/master/0260-single-number-iii) |
+| [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
+| [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
