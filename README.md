@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
+| [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/251129-lab/leetcode/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
