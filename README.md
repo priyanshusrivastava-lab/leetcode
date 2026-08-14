@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/251129-lab/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
