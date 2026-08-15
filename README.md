@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/251129-lab/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/251129-lab/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/251129-lab/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
