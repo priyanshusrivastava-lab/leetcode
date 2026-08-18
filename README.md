@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/251129-lab/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/251129-lab/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [0905-sort-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
