@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/251129-lab/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/251129-lab/leetcode/tree/master/3731-find-missing-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/251129-lab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
