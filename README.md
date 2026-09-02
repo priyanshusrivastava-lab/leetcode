@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/251129-lab/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
