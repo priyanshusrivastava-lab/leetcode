@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/0905-sort-array-by-parity) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/251129-lab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/251129-lab/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
