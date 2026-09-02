@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/251129-lab/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/251129-lab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/251129-lab/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
