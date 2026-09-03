@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/251129-lab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
