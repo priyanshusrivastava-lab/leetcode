@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/251129-lab/leetcode/tree/master/0260-single-number-iii) |
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/251129-lab/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
+| [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
