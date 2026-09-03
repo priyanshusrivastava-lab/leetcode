@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/251129-lab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/251129-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
