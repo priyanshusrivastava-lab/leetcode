@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/251129-lab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/251129-lab/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 | [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
