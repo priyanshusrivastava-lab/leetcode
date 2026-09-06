@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/251129-lab/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/251129-lab/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/251129-lab/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/251129-lab/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
