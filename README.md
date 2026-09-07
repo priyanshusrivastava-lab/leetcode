@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/251129-lab/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/251129-lab/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/251129-lab/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
