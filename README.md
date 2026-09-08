@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/251129-lab/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/251129-lab/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/251129-lab/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/251129-lab/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/251129-lab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/251129-lab/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/251129-lab/leetcode/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/251129-lab/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/251129-lab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
