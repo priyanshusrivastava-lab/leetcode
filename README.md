@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/251129-lab/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0344-reverse-string](https://github.com/251129-lab/leetcode/tree/master/0344-reverse-string) |
+| [0151-reverse-words-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 | [0344-reverse-string](https://github.com/251129-lab/leetcode/tree/master/0344-reverse-string) |
+| [0151-reverse-words-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Ternary Search
 |  |
 | ------- |
