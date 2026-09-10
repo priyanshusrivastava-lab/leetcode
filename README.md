@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/251129-lab/leetcode/tree/master/1534-count-good-triplets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/251129-lab/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting
 |  |
 | ------- |
