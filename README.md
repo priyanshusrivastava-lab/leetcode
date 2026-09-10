@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1534-count-good-triplets](https://github.com/251129-lab/leetcode/tree/master/1534-count-good-triplets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Counting
 |  |
 | ------- |
