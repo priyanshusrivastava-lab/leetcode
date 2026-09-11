@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0344-reverse-string](https://github.com/251129-lab/leetcode/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
 | [0344-reverse-string](https://github.com/251129-lab/leetcode/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 ## Ternary Search
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
