@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/251129-lab/leetcode/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/251129-lab/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0443-string-compression](https://github.com/251129-lab/leetcode/tree/master/0443-string-compression) |
 | [0345-reverse-vowels-of-a-string](https://github.com/251129-lab/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Ternary Search
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
