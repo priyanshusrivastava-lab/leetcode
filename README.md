@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/251129-lab/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3870-count-commas-in-range](https://github.com/251129-lab/leetcode/tree/master/3870-count-commas-in-range) |
+| [0412-fizz-buzz](https://github.com/251129-lab/leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/251129-lab/leetcode/tree/master/0443-string-compression) |
 | [0345-reverse-vowels-of-a-string](https://github.com/251129-lab/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/251129-lab/leetcode/tree/master/0412-fizz-buzz) |
 ## Ternary Search
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [0412-fizz-buzz](https://github.com/251129-lab/leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
