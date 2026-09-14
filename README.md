@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/251129-lab/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
+| [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
