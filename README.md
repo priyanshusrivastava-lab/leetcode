@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/251129-lab/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/251129-lab/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/251129-lab/leetcode/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/251129-lab/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
 | ------- |
