@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/251129-lab/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/251129-lab/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/251129-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0412-fizz-buzz](https://github.com/251129-lab/leetcode/tree/master/0412-fizz-buzz) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Queue
 |  |
 | ------- |
