@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/251129-lab/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/251129-lab/leetcode/tree/master/3870-count-commas-in-range) |
 | [0412-fizz-buzz](https://github.com/251129-lab/leetcode/tree/master/0412-fizz-buzz) |
 | [3536-maximum-product-of-two-digits](https://github.com/251129-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/251129-lab/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
