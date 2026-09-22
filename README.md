@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/251129-lab/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/251129-lab/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/251129-lab/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/251129-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/251129-lab/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
 | ------- |
