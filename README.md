@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/251129-lab/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/251129-lab/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/251129-lab/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/251129-lab/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/251129-lab/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/251129-lab/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/251129-lab/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting
 |  |
 | ------- |
