@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Counting
 |  |
 | ------- |
