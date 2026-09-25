@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/251129-lab/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/251129-lab/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/251129-lab/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/251129-lab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
