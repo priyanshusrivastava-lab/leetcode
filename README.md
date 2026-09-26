@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Counting
 |  |
 | ------- |
